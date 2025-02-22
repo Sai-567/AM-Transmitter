@@ -1,8 +1,6 @@
-% Amplitude Modulation (AM) Radio Transmitter
-
-% Author: Soumya Ranjan Das, Ayusman Patra, Sai Sanjibani Nayak, Pratik Das, Gourav Kumar Das
-
-% Welcome message
+clc;
+close all;
+clear all;
 %% Parameters
 sampling_freq = 44100; 
 
